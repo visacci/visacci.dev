@@ -35,13 +35,13 @@ const Card = (props) => {
 			</div>
 			<div className='web'>
 				<div className='card' style={styles}>
-					<img src='src/images/avator.png' className='avator' />
+					<img src='/src/images/avator.JPG' className='avator' />
 					<h1 className='title'>
 						<span>Visacci</span> Allanz
 					</h1>
 					<small>A Creative Freelancer & Full Stack Developer</small>
 				</div>
-				<img src='src/images/web.png' className='web-img' />
+				<img src='/src/images/web.PNG' className='web-img' />
 			</div>
 
 			<div className='skills'>
