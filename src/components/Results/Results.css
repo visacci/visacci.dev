@@ -1,0 +1,32 @@
+/** @format */
+
+.results {
+	background-color: aquamarine;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	color: honeydew;
+	background-color: transparent;
+	box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+	background-color: transparent;
+	flex-wrap: wrap;
+	gap: 5px;
+	align-items: center;
+	transition: all 0.5s;
+	cursor: pointer;
+}
+.nome {
+	font-weight: bold;
+}
+.email {
+	color: rgb(233, 99, 9);
+	font-style: italic;
+}
+.results:hover {
+	transform: translateY(20px);
+	height: 80px;
+	margin-top: 40px;
+	width: 100%;
+}
