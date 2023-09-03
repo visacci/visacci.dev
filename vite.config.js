@@ -5,6 +5,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-	base: "/visacci-dev/",
+	base: "/Visacci-dev/",
 	plugins: [react()],
 });
