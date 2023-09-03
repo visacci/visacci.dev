@@ -35,7 +35,7 @@ const Card = (props) => {
 			</div>
 			<div className='web'>
 				<div className='card' style={styles}>
-					<img src='/src/images/avator.png' className='avator' />
+					<img src='src/images/avator.png' className='avator' />
 					<h1 className='title'>
 						<span>Visacci</span> Allanz
 					</h1>
